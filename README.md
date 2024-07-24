@@ -8,3 +8,6 @@ git clone https://github.com/W4hyuXD/InstagramTools
 cd InstagramTools
 python Run.py
 ```
+```python
+print("Good Luck!")
+```
